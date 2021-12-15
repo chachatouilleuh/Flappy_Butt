@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2fd626a1eeb654a478076d6499025cce
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - doorPrefab: {fileID: 7156749674906330314, guid: 605fbd732f96a6c4085c11c3409134d1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
